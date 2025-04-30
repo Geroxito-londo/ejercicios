@@ -7,13 +7,13 @@ import java.util.ArrayList;
 
 public class Registro {
 
-    // Clase Usuario
+   
     public static class Usuario {
         String nombre;
         int edad;
         String estado;
 
-        // Constructor para inicializar los atributos
+      
         public Usuario(String nombre, int edad, String estado) {
             this.nombre = nombre;
             this.edad = edad;
